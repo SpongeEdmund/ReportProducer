@@ -1,0 +1,6 @@
+D:\Projects\ReportProducer\DUTReport\bin\Debug\DUTReport.exe.config
+D:\Projects\ReportProducer\DUTReport\bin\Debug\DUTReport.exe
+D:\Projects\ReportProducer\DUTReport\bin\Debug\DUTReport.pdb
+D:\Projects\ReportProducer\DUTReport\obj\Debug\DUTReport.csprojResolveAssemblyReference.cache
+D:\Projects\ReportProducer\DUTReport\obj\Debug\DUTReport.exe
+D:\Projects\ReportProducer\DUTReport\obj\Debug\DUTReport.pdb
